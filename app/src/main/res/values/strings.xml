@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">List_Base</string>
+    <string-array name="title">
+        <item name="abhinav" type="string"></item>
+        <item name="anurag" type="string"></item>
+    </string-array>
+    <string-array name="sub_title">
+        <item name="abhi12" type="string"></item>
+        <item name="anu14" type="string"></item>
+    </string-array>
+
+</resources>
